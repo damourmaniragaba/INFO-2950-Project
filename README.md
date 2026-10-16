@@ -21,7 +21,7 @@ All data comes from Polymarket's free, public APIs:
 - **Random group:** 1,000 non-leaderboard wallets, one picked at random from the recent trades of randomly chosen markets that closed between Oct 1, 2025 and Oct 1, 2026.
 - **Positions:** for each wallet, up to 500 of its most recent positions for each status (`CLOSED`, `REDEEMABLE`, `REDEEMABLE_LOST`), with activity between Oct 1, 2025 and Oct 1, 2026.
 
-Data collected on [DATE].
+Data collected on [10/11/2026].
 
 ## Files
 | File | Description |
