@@ -36,6 +36,8 @@ Data collected on [10/11/2026].
 | `data/positions_clean.csv` | Analysis-ready table: one row per position |
 | `data/traders_clean.csv` | Analysis-ready table: one row per trader |
 
+Raw data files: https://drive.google.com/drive/folders/1qBlrM1k48SQcTbSTcElOIv_jracyIzQe?usp=sharing
+
 ## Key variables
 - `roi`: return on investment (`total_pnl` ÷ `cost_basis`)
 - `price_group`: highRisk (under $0.20), mediumRisk ($0.20 to $0.80), lowRisk ($0.80 or more)
